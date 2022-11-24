@@ -10,14 +10,6 @@
 
 5. [Task Breakdown](#task-breakdown)
 
- 
-## Group-02-UCB
- - **Rohan Arun - Project Manager**
- - **<a href="https://github.com/jigishab">  Jigisha Bengali - Database Designer </a>**
- - **<a href="https://github.com/WeirdFishez"> Ryan Chapman - Machine Learning Engineer </a>**
- - **Andrew In - Data Analyst**
- - **Akbar Saidakramov - Web Developer**
-
 ## Project Summary
 Question: How does US Federal award contract spending impact natural gas prices?
 Method: Exploratory analysis using publically availible federal award contract data to identify and visualize correlations with historic US natural gas prices.
@@ -127,19 +119,16 @@ In depth research analysis on correlations between Natural Gas and Limestone Ind
 - HTML
 
 ## Task Breakdown
-**Ryan Chapman:** Setting up APIs, Data Cleaning with Pandas, Visualization with Tableau, Machine Learning with Python
+ 
+## Group-02-UCB
+ - **Rohan Arun - Project Manager**
+ - **<a href="https://github.com/jigishab">  Jigisha Bengali - Database Designer </a>**
+ - **<a href="https://github.com/WeirdFishez"> Ryan Chapman - Machine Learning Engineer </a>**
+ - **Andrew In - Data Analyst**
+ - **Akbar Saidakramov - Web Developer**
 
-**Rohan:** Pandas/Repository management/Tableau 1, 2, 3 ,4, 5, 14, 15, 16
-
-**Jigisha Bengali:** Collect/Clean the data, Created Join Tables, Top_20 queries, Python: 4,7 & 8 (SQL, Pandas,ETL)
-
-**Andrew:** Dashboard, slides, Python, 1, 2, 3, 4, 5, 7(ish), 14
-
-**Akbar:** Databases, SQL, Pandas, JavaScript, CSS, HTML
-
-
-## Link to slides
+## Link to presentation slides
 https://docs.google.com/presentation/d/1BtSJ0rQH5krcPL6SDq5D2viGjvZ8zvCgHsRkYwpSSaE/edit?usp=sharing
 
-## Link to website
+## Link to dashboard website
 [Our website link](https://saidakramov.github.io/Group_2_website/)
