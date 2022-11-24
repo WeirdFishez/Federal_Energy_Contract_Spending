@@ -4,7 +4,8 @@
  - Half of all homes in the United States use natural gas for space heating and water heating.
  - In 2022, the US become the #1 Natural GAs Exporter in the world <a href="https://www.eia.gov/todayinenergy/detail.php?id=53159">[1]</a> .
  - Between 2012 and 2016, America’s oil and natural gas industry spent an average of $227 billion investing in
-America’s infrastructure annually<a href="https://www.api.org/-/media/Files/Policy/Taxes/DM2018-086_API_Fair_Share_OnePager_FIN3.pdf">[2]</a>. 
+America’s infrastructure annually<a href="https://www.api.org/-/media/Files/Policy/Taxes/DM2018-086_API_Fair_Share_OnePager_FIN3.pdf">[2]</a>.
+ - The average U.S. household expenditure on gasoline in 2017 is expected to total $1,977, or approximately 2.4% of mean incomes of households <a href="https://www.eia.gov/todayinenergy/detail.php?id=33232">[3]</a>
 
 # Data Analysis
 ### Feature Data: US Federal Award Contract Spending in Energy (2016-2021)
