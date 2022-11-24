@@ -45,8 +45,8 @@ The government and its spending are essential to us as taxpayers, and we want to
 ### Target Data: Historical US Natural Gas Prices
  - **Source:** <a href="https://www.worldbank.org/en/research/commodity-markets"> World Bank Commodity Market Data </a> "Pink Sheet" <br />
  - **Description:** UN associated international financial institution.<br />
-  ![image](https://user-images.githubusercontent.com/107438816/203439851-312217f5-2d95-419a-8799-95cdae5a6991.png)
 
+![image](https://user-images.githubusercontent.com/107438816/203439851-312217f5-2d95-419a-8799-95cdae5a6991.png)
   
 ## Machine Learning
 
