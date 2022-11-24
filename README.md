@@ -12,15 +12,14 @@ America’s infrastructure annually<a href="https://www.api.org/-/media/Files/Po
 ### Feature Data: US Federal Award Contract Spending in Energy (2016-2021)
  - **Source:** <a href="https://www.usaspending.gov/search/?hash=96e9318d4713b23d03e6f45310388055">USASPENDING.gov</a><br />
  - **Description:** US Government website that links data from many government systems, including agency financial systems and governmentwide award systems.<br />
- - **Subdata:** Contract Recipient, Awarding Agency, Amount, NAIC,  SIC<br />
 
-  **Subdata: Awarding Agency**<br />
+  **Feature Subdata: Awarding Agency**<br />
 ![image](https://user-images.githubusercontent.com/107438816/203439363-e03fcbb8-4185-43eb-a30d-3c348a4f836e.png)
 <br /><br />
-  ****Subdata:** Award Recipient**<br />
+  **Feature Subdata:** Award Recipient**<br />
 ![image](https://user-images.githubusercontent.com/107438816/203439217-341eec48-3446-4b19-a3b1-3c4bfc753291.png)
 <br /><br />
-  **Subdata: North American Industry Classification System (NAICS)**
+  **Feature Subdata: North American Industry Classification System (NAICS)**
  - System used by Federal statistical agencies in classifying business establishments for the purpose of collecting, analyzing, and publishing statistical data related to the U.S. business economy.<br />
 
 ![image](https://user-images.githubusercontent.com/107438816/203439412-effbae38-2a16-4416-9cc2-363a208e44e5.png)
