@@ -28,7 +28,7 @@ The government and its spending are essential to us as taxpayers, and we want to
   **Subdata: Awarding Agency**<br />
 ![image](https://user-images.githubusercontent.com/107438816/203439363-e03fcbb8-4185-43eb-a30d-3c348a4f836e.png)
 <br /><br />
-  **Subdata: Award Recipient**<br />
+  ****Subdata:** Award Recipient**<br />
 ![image](https://user-images.githubusercontent.com/107438816/203439217-341eec48-3446-4b19-a3b1-3c4bfc753291.png)
 <br /><br />
   **Subdata: North American Industry Classification System (NAICS)**
