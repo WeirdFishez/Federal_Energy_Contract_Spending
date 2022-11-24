@@ -84,6 +84,6 @@ In depth research analysis on correlations between Natural Gas and Limestone Ind
  - **Andrew In - Data Analyst**
  - **Akbar Saidakramov - Web Developer**
 
-<a href="https://docs.google.com/presentation/d/1BtSJ0rQH5krcPL6SDq5D2viGjvZ8zvCgHsRkYwpSSaE/edit?usp=sharing">Presentation Google Slides</a>
+<a href="https://docs.google.com/presentation/d/1BtSJ0rQH5krcPL6SDq5D2viGjvZ8zvCgHsRkYwpSSaE/edit?usp=sharing">Google Slides Presentation</a>
 
 [Dashboard link](https://saidakramov.github.io/Group_2_website/)
