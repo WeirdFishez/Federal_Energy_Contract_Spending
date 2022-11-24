@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/107438816/203698070-05fe6b77-f8db-41ac-af25-64e1925688f9.png)
+![image](https://user-images.githubusercontent.com/107438816/203698475-636c2fa9-22f1-4517-9a04-dafab9ce05bf.png)
 
 ## Why it's important?
  - Half of all homes in the United States use natural gas for space heating and water heating.
