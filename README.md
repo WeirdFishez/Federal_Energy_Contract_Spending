@@ -10,6 +10,8 @@
 
 5. [Task Breakdown](#task-breakdown)
 
+![image](https://user-images.githubusercontent.com/107438816/203695612-1b1c76aa-69e7-40c3-842d-e16c10db5976.png)
+
 ## Project Summary
 **Question:** How does US Federal award contract spending impact natural gas prices?<br /><br />
 **Method:** Exploratory analysis using publically availible Federal award contract data to identify and visualize correlations with historic US natural gas prices.
