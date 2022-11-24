@@ -1,22 +1,4 @@
-## Table of Contents
-
-1. [Project Introduction](#Group-02-UCB)
-
-2. [Data Sources](#Data-Analysis)
-
-3. [Machine Learning](#machine-learning)
-
-3. [Tools](#tools)
-
-5. [Task Breakdown](#task-breakdown)
-
-![image](https://user-images.githubusercontent.com/107438816/203695612-1b1c76aa-69e7-40c3-842d-e16c10db5976.png)
-
-## Project Summary
-**Question:** How does US Federal award contract spending impact natural gas prices?<br /><br />
-**Method:** Exploratory analysis using publically availible Federal award contract data to identify and visualize correlations with historic US natural gas prices.
-
-<img width="1408" alt="Project Outline" src="https://user-images.githubusercontent.com/89552059/201586595-5146f804-204e-46db-9401-866a113f01ec.png">
+![image](https://user-images.githubusercontent.com/107438816/203696729-82e62c73-11e0-45ae-999b-1d0aec631ff7.png)
 
 ## Why it's important?
  - Half of all homes in the United States use natural gas for space heating and water heating.
