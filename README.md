@@ -85,6 +85,4 @@ In depth research analysis on correlations between Natural Gas and Limestone Ind
 
 <a href="https://docs.google.com/presentation/d/1BtSJ0rQH5krcPL6SDq5D2viGjvZ8zvCgHsRkYwpSSaE/edit?usp=sharing">Presentation Google Slides</a>
 
-
-## Link to dashboard website
-[Our website link](https://saidakramov.github.io/Group_2_website/)
+[Dashboard link](https://saidakramov.github.io/Group_2_website/)
