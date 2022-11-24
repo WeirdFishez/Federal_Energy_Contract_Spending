@@ -18,7 +18,7 @@
 
 ## Why it's important?
  - Half of all homes in the United States use natural gas for space heating and water heating.
- - The United States is the second largest Natural Gas Exporter
+ - In 2022, the US become the #1 Natural GAs Exporter in the world <a href="https://www.eia.gov/todayinenergy/detail.php?id=53159">[2]</a> .
  - Between 2012 and 2016, America’s oil and natural gas industry spent an average of $227 billion investing in
 America’s infrastructure annually<a href="https://www.api.org/-/media/Files/Policy/Taxes/DM2018-086_API_Fair_Share_OnePager_FIN3.pdf">[2]</a>. 
 
