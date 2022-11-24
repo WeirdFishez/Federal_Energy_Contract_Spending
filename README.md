@@ -75,37 +75,6 @@ The ‘Crushed and Broken Limestone Mining and Quarrying’ industry demonstrate
 In depth research analysis on correlations between Natural Gas and Limestone Industries for future models.<br />
 
 ![image](https://user-images.githubusercontent.com/107438816/203450794-3898359f-a741-45a8-938d-10128bca7212.png)
-
-## Database Design
-### ER Diagram
-![ER Diagram](Resources/images/ER_Diagram.png)
-### Join Tables 
-#### Top 20 Contracts
-<a href="https://github.com/rohanjarun/Group-02-UCB/blob/main/sql/top_20_contracts_by_contract_amount.sql">Link To Join Table Design</a>
-
-##### Chart Using Join Table
-![Result](Resources/images/top_20_contracts.png)
-
-#### Top Contracts By NAICS Description
-<a href="https://github.com/rohanjarun/Group-02-UCB/blob/main/sql/top_20_contracts_by_naics_description.sql">Link To Join Table Design</a>
-
-##### Chart Using Join Table
-![Result](Resources/images/top_contracts_by_naics_description.png)
-
-## Tools, Technologies, & Languages
-- Excel
-- PostgreSQL
-- SQL
-- Python
-- Pandas
-- Matplotlib
-- NumPy
-- SciPy
-- Tableau
-- SQL Alchemy
-- HTML
-
-## Task Breakdown
  
 ## Group-02-UCB
  - **Rohan Arun - Project Manager**
