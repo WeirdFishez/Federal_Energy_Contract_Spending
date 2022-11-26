@@ -3,7 +3,7 @@
 ## Why it's important?
  - Half of all homes in the United States use natural gas for space heating and water heating.
  - The average U.S. household expenditure on gasoline in 2017 is expected to total $1,977, or approximately 2.4% of mean incomes of households <a href="https://www.eia.gov/todayinenergy/detail.php?id=33232">[1]</a>
- - In 2022, the US become the #1 Natural GAs Exporter in the world <a href="https://www.eia.gov/todayinenergy/detail.php?id=53159">[2]</a> .
+ - In 2022, the US become the #1 Natural Gas Exporter in the world <a href="https://www.eia.gov/todayinenergy/detail.php?id=53159">[2]</a> .
  - Between 2012 and 2016, America’s oil and natural gas industry spent an average of $227 billion investing in
 America’s infrastructure annually<a href="https://www.api.org/-/media/Files/Policy/Taxes/DM2018-086_API_Fair_Share_OnePager_FIN3.pdf">[3]</a>.
 
@@ -45,14 +45,14 @@ America’s infrastructure annually<a href="https://www.api.org/-/media/Files/Po
 
 
 ### Model: Random Forest Regression
- - **Result Summary:** This model scored a MSE of 0.5426 with target prices ranging from 5.11 to 1.61. After printing our the top 10 features list, we highlighted the awardees in the overall data and noticed that while 9 companies received 50% of the funding, none of these companies had high feature impact. Because Random Forest is not the most sophisticated model, we then tried a boosting model next.
+ - **Result Summary:** This model scored a MSE of 0.5426 with target prices ranging from 5.11 to 1.61. After printing the top 10 features list, we highlighted the awardees in the overall data and noticed that while 9 companies received 50% of the funding, none of these companies had high feature impact. Because Random Forest is not the most sophisticated model, we then tried a boosting model next.
 
 ![image](https://user-images.githubusercontent.com/107438816/203445005-b2e73d54-21ee-46d4-9438-c48fbff86e97.png)
 
 ![image](https://user-images.githubusercontent.com/107438816/203448717-22ab1c1f-571d-4824-8ad1-0ff96e8cf7b1.png)
 
 ### Model: Extreme Gradient Boost
- - **Result Summary:** This model scored a MSE of 0.5425 with target prices ranging from 5.11 to 1.61. After printing our the top 10 features list, we again highlighted the awardees in the overall data. This time, the companies with the highest feature correlation made up even less of the contract aweards. Most notable, Progas only received $10K in funding and had the highest feature importance for awardees.
+ - **Result Summary:** This model scored a MSE of 0.5425 with target prices ranging from 5.11 to 1.61. After printing the top 10 features list, we again highlighted the awardees in the overall data. This time, the companies with the highest feature correlation made up even less of the contract awards. Most notable, Progas only received $10K in funding and had the highest feature importance for awardees.
 
 ![image](https://user-images.githubusercontent.com/107438816/203444941-ca33565d-4094-449b-9ae9-7c8fd3f150fe.png)
 <br />
