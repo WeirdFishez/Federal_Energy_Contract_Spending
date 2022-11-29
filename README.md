@@ -14,10 +14,10 @@ America’s infrastructure annually<a href="https://www.api.org/-/media/Files/Po
  - **Description:** US Government website that links data from many government systems, including agency financial systems and governmentwide award systems.<br />
 
   **Feature Subdata: Awarding Agency**<br />
-![image](https://user-images.githubusercontent.com/107438816/203439363-e03fcbb8-4185-43eb-a30d-3c348a4f836e.png=x250)
+![image](https://user-images.githubusercontent.com/107438816/203439363-e03fcbb8-4185-43eb-a30d-3c348a4f836e.png)
 <br /><br />
   **Feature Subdata:** Award Recipient<br />
-![image](https://user-images.githubusercontent.com/107438816/203439217-341eec48-3446-4b19-a3b1-3c4bfc753291.png=x250)
+![image](https://user-images.githubusercontent.com/107438816/203439217-341eec48-3446-4b19-a3b1-3c4bfc753291.png)
 <br /><br />
   **Feature Subdata: North American Industry Classification System (NAICS)**
  - System used by Federal statistical agencies in classifying business establishments for the purpose of collecting, analyzing, and publishing statistical data related to the U.S. business economy.<br />
